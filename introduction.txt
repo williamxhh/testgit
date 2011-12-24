@@ -6,4 +6,3 @@ use:
 	git add .    ---add current directory to git
 
 	git commit -a -m "**"   ---commit
-
