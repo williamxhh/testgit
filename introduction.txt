@@ -12,5 +12,3 @@ use:
 	git branch test   --- create a new brance names test
 
 	git merge test   ---merge brance test to current branch
-	
-	edit in test
