@@ -1,0 +1,6 @@
+use:
+	git init   ---to init a git directory
+
+	git status  --- to show the current status of version lib
+	
+
