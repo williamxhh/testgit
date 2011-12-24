@@ -3,4 +3,7 @@ use:
 
 	git status  --- to show the current status of version lib
 	
+	git add .    ---add current directory to git
+
+	git commit -a -m "**"   ---commit
 
