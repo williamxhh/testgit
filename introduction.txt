@@ -6,3 +6,9 @@ use:
 	git add .    ---add current directory to git
 
 	git commit -a -m "**"   ---commit
+
+	git branch   --- list all branches
+
+	git branch test   --- create a new brance names test
+
+
